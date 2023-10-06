@@ -1,6 +1,7 @@
 # Assignment 4 Developing Design Specifications
 
 Conceptual Diagram for reference:
+
 ![Conceptual diagram, for reference](https://github.com/BradBKaiBuffs/Assignment-4-Developing-Design-Specifications/blob/main/Bradley_Kai_Conceptual_SS.png)
 
 ## Task completed:
